@@ -94,3 +94,17 @@ Model performance was assessed using:
 - Matplotlib / Seaborn
 
 - XGBoost (optional)
+
+📌 Business Applications
+
+This system can support:
+
+- Retail demand forecasting
+
+- Inventory planning
+
+- Revenue optimisation
+
+- Marketing impact analysis
+
+- Financial forecasting
