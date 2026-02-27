@@ -1,3 +1,7 @@
+<img width="1439" height="690" alt="image" src="https://github.com/user-attachments/assets/9f9507a9-b761-4462-b065-52561aa07127" />
+<img width="1439" height="690" alt="image" src="https://github.com/user-attachments/assets/8705ebc7-f050-4895-99f3-87856075e338" />
+<img width="1439" height="690" alt="image" src="https://github.com/user-attachments/assets/792758b4-d841-4c0a-bff0-62af3898ff14" />
+
 🔍 Overview
 
 This project implements a complete machine learning workflow for forecasting sales using historical transactional data. The system is designed to extract actionable business insights while maintaining strong predictive performance and reproducibility.
